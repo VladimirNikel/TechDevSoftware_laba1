@@ -20,3 +20,5 @@
 1. Выполняем команду нажатием `Ctrl+X`
 
 И видим нашу надпись/рисунок в тексте лога загрузки модулей. 
+
+![результат](https://sun9-38.userapi.com/wEBZQZQNE4Sqzyou-okJeBN3nNHCpRImaDa2zg/yWXFMUnv4pA.jpg)
